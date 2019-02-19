@@ -1,0 +1,20 @@
+{
+  "name": "pi",
+  "description": "Generate PI up to n digits.",
+  "version": "0.1.0",
+  "main": "cli.js",
+  "bin": {
+    "pi": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oqkr/karan_projects"
+  },
+  "author": "oqkr@protonmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "decimal.js": "^10.0.2",
+    "meow": "^5.0.0"
+  }
+}
